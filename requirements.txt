@@ -2,7 +2,6 @@ numpy~=1.21.2
 streamlit~=0.87.0
 keras
 opencv-contrib-python-headless
-tensorflow-cpu
 streamlit_webrtc
 gunicorn
 tensorflow
