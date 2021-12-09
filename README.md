@@ -1,2 +1,2 @@
-# WebCam-Face-Emotion-Detection-Streamlit
-Real time face detection streamlit based bew application for server deployment.
+# WebCam-Face-Emotion-Recognition-Streamlit
+Real time face recognition streamlit based new application for server deployment.
