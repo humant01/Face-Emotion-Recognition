@@ -48,8 +48,17 @@ Streamlit_webrtc
 ![image](https://user-images.githubusercontent.com/85746056/146380609-e4c175e5-9f26-4b6b-8595-c962d6e7acd7.png)
 The model which was created using CNN that gave training accuracy of 80% and validation accuracy of 65%. 
 
+##Webapp links
              
 Heroku link: https://facial-emotion-recognition-py.herokuapp.com/ 
 
 Streamlit link: http://192.168.32.127:8501
+
+Steps required to Run the streamlit webapp :- 
+
+To ignore Chrome’s secure origin policy, follow these steps.
+Navigate to `chrome://flags/#unsafely-treat-insecure-origin-as-secure` in Chrome.
+Find and enable the `Insecure origins treated as secure` section (see below).
+Add any addresses you want to ignore the secure origin policy for. Remember to include the port number too (if required).
+Save and restart Chrome.
 
